@@ -16,5 +16,6 @@ function logShout(string)
 
 function logWhisper(string)
 {
-  
+  spy = whisper(string)
+  console.log(`${spy}`)
 }
