@@ -19,6 +19,7 @@ function logWhisper(string)
 }
 
 function sayHiToGrandma (string)
+var check = string
 {if(string === logWhisper(string)) {
   return `"I can\'t hear you!"`;}
 else if(string === logShout(string)) {
