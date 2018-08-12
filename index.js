@@ -18,4 +18,5 @@ function logWhisper(string)
   console.log(`${whisper(string)}`)
 }
 
-if 
+function sayHiToGrandma (tring)
+{if Shout(string).toLowerCase() === logShout(string)
