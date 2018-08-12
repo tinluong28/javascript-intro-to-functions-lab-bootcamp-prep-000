@@ -20,12 +20,9 @@ function logWhisper(string)
 
 function sayHiToGrandma (string)
 {if(string === logWhisper(string)) {
-  response = "I can\'t hear you"
-  console.log(`${response}`);}
+  return `"I can\'t hear you!"`;}
 else if(string === logShout(string)) {
-  response = "YES INDEED!"
-  console.log(`${response}`);}
+  return `"YES INDEED!"`;}
 else if(string === 'I love you, Grandma.') {
-  reponse = "I love you, too."
-  console.log(`${response}`);}
+  return `"I love you, too"`;}
 }
