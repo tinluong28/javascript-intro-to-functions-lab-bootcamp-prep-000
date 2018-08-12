@@ -19,4 +19,4 @@ function logWhisper(string)
 }
 
 function sayHiToGrandma (tring)
-{if Shout(string).toLowerCase() === logShout(string)
+{if (Shout(string).toLowerCase() === logShout(string))
