@@ -13,3 +13,8 @@ function logShout(string)
   spy = shout(string)
   console.log(`${spy}`)
 }
+
+function logWhisper(string)
+{
+  
+}
