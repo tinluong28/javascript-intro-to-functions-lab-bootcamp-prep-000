@@ -11,7 +11,7 @@ function whisper(string)
 function logShout(string)
 {
   spy = shout(string)
-  console.log(`${spy}`)
+  console.log(`shout(string)`)
 }
 
 function logWhisper(string)
