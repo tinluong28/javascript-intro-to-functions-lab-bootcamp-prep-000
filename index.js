@@ -10,6 +10,6 @@ function whisper(string)
 
 function logShout(string)
 {
-  spy = string.toUpperCase
+  spy = shout(string)
   console.log(`${spy}`)
 }
