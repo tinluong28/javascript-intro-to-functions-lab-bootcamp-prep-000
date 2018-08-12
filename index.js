@@ -20,3 +20,4 @@ function logWhisper(string)
 
 function sayHiToGrandma (tring)
 {if (Shout(string).toLowerCase() === logShout(string))
+console.log(I can)
