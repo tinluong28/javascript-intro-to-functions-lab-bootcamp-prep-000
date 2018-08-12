@@ -24,7 +24,7 @@ function sayHiToGrandma (string, response)
   console.log(`${response}`);}
 else if(string === logShout(string)) {
   response = "YES INDEED!"
-  console.log(`${response}`;}
+  console.log(`${response}`);}
 else if(string === 'I love you, Grandma.') {
   reponse = "I love you, too."
   console.log(`${response}`);}
