@@ -10,7 +10,6 @@ function whisper(string)
 
 function logShout(string)
 {
-  spy = shout(string)
   console.log(`shout(string)`)
 }
 
